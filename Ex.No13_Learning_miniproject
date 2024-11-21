@@ -48,10 +48,9 @@ print("Recommendations for 'Toy Story':")
 print(get_recommendations('Toy Story'))
 ```
 
-<br> <br> <br> <br> <br> <br> <br> <br>
-
 
 ### Output:
+
 
 
 
