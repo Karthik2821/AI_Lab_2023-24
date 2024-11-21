@@ -50,8 +50,11 @@ print(get_recommendations('Toy Story'))
 
 
 ### Output:
+![movies colab 1](https://github.com/user-attachments/assets/b09f48ba-fbdc-408f-9237-c0b02ceafad8)
 
+![movies colab 2](https://github.com/user-attachments/assets/a10db842-7c9e-4426-82ad-af61e1e1a48a)
 
+![movies colab 3](https://github.com/user-attachments/assets/bd77a80a-e4e0-4d8c-bb78-d5cd89d10b22)
 
 
 ### Result:
